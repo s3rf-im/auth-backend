@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="386a76a8-d7da-4a43-84fc-c625a2cee1c4" name="Changes" comment="" />
+    <list default="true" id="386a76a8-d7da-4a43-84fc-c625a2cee1c4" name="Changes" comment="Backend part 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +40,16 @@
       <option name="presentableId" value="Default" />
       <updated>1658821386078</updated>
       <workItem from="1658821387638" duration="136000" />
+      <workItem from="1658825031771" duration="338000" />
     </task>
+    <task id="LOCAL-00001" summary="Backend part 1">
+      <created>1658825309133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658825309133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,5 +65,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Backend part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Backend part 1" />
   </component>
 </project>
